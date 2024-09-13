@@ -2,7 +2,11 @@
 
 BlogStructure is a scalable and modern blog architecture built with [Next.js](https://nextjs.org/) and styled using [Tailwind CSS](https://tailwindcss.com/). This project aims to provide a solid foundation for building fast, SEO-optimized blogs, with minimal configuration required.
 
-![BlogStructure Screenshot](public/screen.jpg)
+<p align="center">
+    <a href="#" target="_blank">
+        <img src="public\screen.JPG" width="600">
+    </a>
+</p>
 
 ## Features
 
